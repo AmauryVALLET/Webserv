@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Thème clair */
+  .light {
+    background-color: #f5f5f5;
+    color: #333;
+  }
+  
+  .light h1 {
+    color: #333;
+  }
+  
+  .light a {
+    color: #007bff;
+  }
+  
+  /* Thème sombre */
+  .dark {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .dark h1 {
+    color: #fff;
+  }
+  
+  .dark a {
+    color: #007bff;
+  }
