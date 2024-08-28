@@ -1,5 +1,5 @@
 # WebServ
-Ce projet consiste a realiser un serveur web HTTP en c++, dans le cadre du cursus de l'Ecole 42
+this project aims to implement an HTTP server using C++
 
 
 Usefull curl command lines
